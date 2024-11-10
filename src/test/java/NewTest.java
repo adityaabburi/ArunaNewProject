@@ -10,4 +10,8 @@ public class NewTest {
     public void addvalue2(){
         Assert.assertTrue(true);
     }
+    @Test
+    public void addvalue3(){
+        Assert.assertTrue(false);
+    }
 }
