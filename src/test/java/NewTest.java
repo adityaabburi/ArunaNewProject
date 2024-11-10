@@ -48,7 +48,7 @@ public class NewTest {
 
    @Test
    public void assertvaluecheck(){
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
   }
 
 }
